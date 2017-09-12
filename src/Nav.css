@@ -1,0 +1,7 @@
+nav {
+  position: fixed;
+  width: 100%;
+  padding: 20px;
+  background: #ffffff;
+  z-index: 100;
+}
